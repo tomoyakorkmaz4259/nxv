@@ -10,3 +10,4 @@ description = "Find any version of any Nix package, instantly. Fast CLI + HTTP A
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # drop an unused branch
+# clarify the control flow
